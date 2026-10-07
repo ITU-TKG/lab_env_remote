@@ -1,6 +1,6 @@
 # 研究データ
 /data
-
+/js_files
 # Python
 __pycache__/
 *.pyc
